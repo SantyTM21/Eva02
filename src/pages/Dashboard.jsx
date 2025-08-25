@@ -18,7 +18,7 @@ export default function Dashboard() {
   }
 
   return (
-    <section className='mx-auto max-w-7xl p-6 bg-gradient-to-b from-orange-100 to-orange-200'>
+    <section className='mx-auto p-6 bg-gradient-to-b from-orange-100 to-orange-200'>
       <header className='mb-6'>
         <h1 className='text-center text-3xl font-bold text-orange-700'>Ciudadanos en acción</h1>
         <button
